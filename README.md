@@ -23,6 +23,7 @@ A instalação completa instalará o seguinte:
 
 * MariaDB
 
-# Elasticsearch
+* Elasticsearch
 
+# Acesso por:
 * http://localhost:9000
